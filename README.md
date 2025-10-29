@@ -6,7 +6,8 @@ Menampilkan semua data komik dari database.
 
 ## 2. Screenshot hasil POST data
 Menambahkan data komik baru ke database.  
-<img width="960" height="540" alt="POST(PRAK4)" src="https://github.com/user-attachments/assets/cb6df4b2-efd9-4015-a2fc-b0292dd586ac" />
+<img width="960" height="540" alt="POST(PRAK4)" src="https://github.com/user-attachments/assets/5dda9b93-6ea3-4716-af44-11bebe29b051" />
+
 
 ## 3. Screenshot hasil PUT data
 Mengubah data komik berdasarkan ID.  
